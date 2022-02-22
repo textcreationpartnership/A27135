@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discovery of the state of man before the fall, in the fall, and out of the fall againe : wherein is also laid open the ignorance and error of Robert Hall, preacher at Colebrooke in Buckinghamshire, and Edmund Board, of the same town, a professor ... / by W.B.</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27135</idno>
+            <idno type="STC">Wing B1536</idno>
+            <idno type="STC">ESTC R29031</idno>
+            <idno type="EEBO-CITATION">10797689</idno>
+            <idno type="OCLC">ocm 10797689</idno>
+            <idno type="VID">45948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45948)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1415:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discovery of the state of man before the fall, in the fall, and out of the fall againe : wherein is also laid open the ignorance and error of Robert Hall, preacher at Colebrooke in Buckinghamshire, and Edmund Board, of the same town, a professor ... / by W.B.</title>
+                  <author>Bayly, William, d. 1675.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mary Westwood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: William Bayly.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hall, Robert, 17th century.</term>
+               <term>Board, Edmund.</term>
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Fall of man.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:45948:1" rendition="simple:additions"/>
+            <p>SHORT DISCOVERY OF THE STATE <hi>of</hi> MAN: Before The fall, in the fall, and out of the fall againe; wherein is alſo laid open the ignorance and error of <hi>Robert Hall</hi> Preacher at <hi>Colebrooke</hi> in <hi>Buckingham-ſhire,</hi> and <hi>Edmund Board</hi> of the ſame Town a Profeſſor, who are contentious, obey<g ref="char:EOLhyphen"/>ing not the truth (which they be erred from) but do oppoſe themſelves againſt it, as may be ſeen with the ſingle eye in that which followeth,—by W:B:</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <epigraph>
+               <q>The Lord fruſtrateth the tokens of the lyars, and maketh diviners mad, he turneth wiſe men backward, and maketh their knowledge fooliſh. <bibl>Iſa. 44:25:</bibl>
+               </q>
+               <q>But the ſecrets of the Lord are with them that feare him, <bibl>Pſa: 25:14:</bibl>
+               </q>
+            </epigraph>
+            <p>IN the 4th: Moneth <hi>59:</hi> At a meeting in Colebrooke, as I was moved of the Lord, I ſpake theſe words, verily, verily I ſay unto you, except a man be born again, he can in no wiſe enter into the Kingdome of God, and I alſo declared that God made man in his image, after his likeneſſe, having dominion, and was bleſſed of God, Gen: <hi>1:26:28:</hi> alſo that this ſtate was loſt from Adam, (in which he was bleſſed) <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y reaſon of ſin and tranſgreſſion, which brought the curſe, (marke) man was made <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the image of God, and in that ſtate was bleſſed, here was the firſt word man (in the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mage of God) that ever I read of in Scripture, Let us make man in our image after <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur likeneſſe, and let him have dominion, Gen: <hi>1:26:</hi> man in the image of God, like God, upright having dominion bleſſed of God, (marke) this ſtate was loſt and erred from <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y tranſgreſſion, tranſgreſſion loſt the dominion, ſhuts out of the kingdome: therefore ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ept a man be born again, he cannot enter into the kingdome (or dominion) of Gods nor <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e bleſſed of God, nor be in the likeneſſe or image of God, theſe things I did and doe ſtill <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffirme and teſtifie, and that as Adam loſt the dominion, the peace, and the bleſſing of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od, goeing from God into tranſgreſſion, ſo muſt all that ever enter the kingdome again, which is righteouſneſs, peace, and joy in the holy ſpirit,) come to the light which Christ <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſus hath enlightened them withall, (which ſhewes them ſin,) and believe in it, and <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey it, to be led out of tranſgreſſion by it up to God again, This is the work of the laſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dam, to deſtroy the workes of the Divell, to quicken up to God again, and to bring again <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t which was driven away by tranſgreſſion, (marke that) Ezek: <hi>34:4:</hi> for it is your <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iquities that have ſeperated between you and your God, and your ſins have hid his
+<pb facs="tcp:45948:2"/> face from you, Iſa: <hi>59:3:4:</hi> for this purpoſe was the ſon of God manifeſted, to deſtroy the workes of the Divell, <hi>1</hi> John: <hi>3:8:</hi> (marke) to deſtroy that which the Divell hath wrought, diſobedience, tranſgreſſion, all unrighteouſneſſe and ſin, this the Divell wrought, the old Serpent when he led man out from God, (who is light) into darkneſſe, the thick cloud, the ſeperation, Iſa: <hi>44:2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> which muſt be broken down and deſtroyed by the power of God, before fallen man can be reconciled to God again.</p>
+            <p>Now ſuch were the things which theſe men, <hi>Robert Hall,</hi> and <hi>Edmund Board</hi> op<g ref="char:EOLhyphen"/>poſed, ſaying my doctrine tended to no other thing, then to bring people from Chri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, to be as the fir<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Adam was, who ſaid they was not in Chri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, neither had he the holy ſpirit ſaid <hi>Robert Hall,</hi> in his firſt ſtate, but was earthly, And that the breath of life, which God breathed into man, (whereby he became a living ſoule) was a created thing, theſe things was by them ſpoken, before many people, bringing the Apoſtles words (in their dark mindes) where he ſaid the firſt man is of the earth earthy, &amp;c. now the Scripture is true, (the firſt Adam was in two ſtates, who will deny it) but I query, whe<g ref="char:EOLhyphen"/>ther the firſt ſtate of the firſt man was earthly, ſeeing he was made in the image of God, in his likeneſs, without ſin, upright, and was bleſſed of God, having dominion, and peace with God, I know the firſt Adam became earthy, when drove from God by tranſgreſſi<g ref="char:EOLhyphen"/>on, into the earth, after he had tranſgreſſed, and was afraid of God, when he ſaw his nakedneſſe, and hid himſelfe, (marke) he had a ſelfe now to hide after tranſgreſſi<g ref="char:EOLhyphen"/>on, then 'twas I heard thy voyce, and was afraid, here was a diviſion and ſeperation, (I and thy, twaine) after tranſgreſſion, but not before, (marke that) ſo here is the ſtate of the whole world, in tranſgreſſion afraid of God, drove from God in the earth, hiding and covering ſelfe, and loving and imbracing that which God will deſtroy.</p>
+            <p>Now theſe men granted and confeſſed, that man in his firſt ſtate had peace with God, and was without ſin, in the image, likeneſſe, and dominion of God, and was bleſſed of God, but ſaid <hi>Robert Hall</hi> he had not then the holy ſpirit, and ſaid <hi>Edmund Board</hi> he was not in Chriſt in that ſtate, now this is to be conſidered with a ſober mind in the light.</p>
+            <p>Chriſt Jeſus is called the image of God, (who was without ſin) <hi>2</hi> Cor. <hi>4:4:</hi> and man was made in the image of God, before ſin and tranſgreſſion was after the like<g ref="char:EOLhyphen"/>neſſe of God, and had dominion, and was bleſſed of God, and ſaith the ſcripture, Adam which was the ſon of God, Luke: <hi>3:38:</hi> Then I thus query, could Adam be in the image o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, without ſin, in the likeneſſe of God, the ſon of God, at peace with God, and bleſſed of God, and yet not have the holy ſpirit, n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r be in Chriſt, is not God holy? and can any be in his image like him, but ſuch as are holy? or be in peace with him, but who are holy<g ref="char:punc">▪</g> ſeeing the ſcripture ſaith, there is no peace to the wicked ſaith my God, Iſa: <hi>57:21:</hi> and without holineſſe no man ſhall ſee the Lord, Heb: <hi>12:14:</hi> and be yee holy for I the Lor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your God am holy, Levit: <hi>19:2. 1</hi> Pet: <hi>1:16.</hi> can any man be the ſon of God, or like God<g ref="char:punc">▪</g> or bleſſed of God, and not b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holy, let the just anſwer, or can any be holy, like God, i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the image of God, without the holy ſpirit, if thou ſay no, none can be like God (wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is holy) but ſuch as are holy, and that none can be holy without the holy ſpirit, then whe<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:45948:2"/> man had not the holy ſpirit, when he was in the image of God, the ſone of God, in peace and bleſſed of God, before ſin and tranſgreſſion was, or can any be the ſons of God, at peace, reconciled to God again, without Chriſt and the holy ſpirit, yea or nay? or doe God ſpeake peace, to that which is n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t like him, or is his bleſſing to two ſeeds, or but to one, Gal: <hi>3:16:</hi> yea or nay:</p>
+            <p>Now if any other ſhall ſay, that man in his firſt state, in the image of God, before ſin and tranſgreſſion was, when he was bleſſed of God, had not then the holy ſpirit, neither was he in Chriſt, Then doe I query, what and whoſe ſpirit was it, which he had, when he was made in the image of God, and bleſſed, ſelfe was not before tranſgreſſion, and Chriſt being the image of God without ſin, <hi>2</hi> Cor. <hi>4:4:</hi> and man was made (in) the image of God, before ſin and tranſgreſſion and ſelfe was, bleſſed of God, having dominion over the earth, and the creatures, then what or who ſtood he in, if not in Chri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, or what ſpi<g ref="char:EOLhyphen"/>rit was he guided and upheld by, before tranſgreſſion, if not by the holy ſpirit, or what was his fall, and what fell he from when he tranſgreſſed, did he fall from that which was earthly, or from that which was holy, pure and eternall of God, yea or nay? conſi<g ref="char:EOLhyphen"/>der it, But if any ſhould ſay, that mans fir<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t state was earthly, (as theſe men have ſaid) then ſay I man fell from that which was earthly, for he fell from his first state by tranſ<g ref="char:EOLhyphen"/>greſſion, (did he not fall from that which he tranſgreſſed) or doe any now fall from that which is earthly, or from that which is heavenly, when they tranſgreſſe and ſin againſt God? Let Gods witneſſe in you anſwer,</p>
+            <p>
+               <hi>Object.</hi> But doe not the ſcripture ſay: the firſt man is of the earth, earthly, and the ſecond is the Lord from heaven, and as we have borne the image of the earthly, ſo ſhall we beare the image of the heavenly. <hi>1</hi> Cor: <hi>15:47.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Yea, it doth ſo, and the ſcriptures is true, but he ſpeakes of a mi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tery verſe <hi>51.</hi> which the blinde cannot ſee, and a leight minde in vanity, and luſt, and rebellion againſt God, cannot weigh the weight of holy mens words being from the light in them the juſt ballance, neither can men, by the wiſedome of this world, comprehend and diſcerne ſpi<g ref="char:EOLhyphen"/>rituall things; Therefore muſt all people upon earth, be brought to the light, which they be lighted withall, which comes from Chriſt, the firſt and the la<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, the ſaviour out of tranſ<g ref="char:EOLhyphen"/>greſſion, before they can ſee, and know that ſtate which was before ſin and tranſgreſſion was, for in the dark thou cannot ſee things that differ, (iniquity is darkeneſſe) but come to the light which condemnes ſin, and in it waite, and thou wilt ſee a great dif<g ref="char:EOLhyphen"/>ference, between a ſtate before ſin and tranſgreſſion was, and a ſtate in tranſgreſſion, between a ſtate in peace, and bleſſed of God, in the image of God, the ſon of God. And a ſtate under condemnation, wrath, and the curſe of God, out of his image, out of his ſon, a tranſgreſſor afraid of God, without peace and the bleſſing of God, for both theſe states Adam was in, the firſt before he tranſgreſſed, the other after tranſgreſſion, ſo the wages of ſin is the curſe and death, which came by ſin, by tranſgreſſion, in which ſtate Adam was drove from God into the earth: Gen: <hi>3:24:</hi> and this image all tranſ<g ref="char:EOLhyphen"/>greſſors have borne, and the Apoſtle ſaid yee were ſometimes darkeneſſe, &amp;c. envying
+<pb facs="tcp:45948:3"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> living in malice, hateing and hatefull, Here was the image which they had borne, but were waiting to beare another image, to put on Chriſt and walk in him, who is the image of God, <hi>2</hi> Cor: <hi>4:4:</hi> the firſt and the laſt, Rev: <hi>1:17:</hi>
+            </p>
+            <p>Now if any can ſay that the Apoſtle or them to whom he thus ſpake, had ever borne that image, which Adam was in, before ſin or tranſgreſſion entered into the world, then let me know when it was they bore it, if thou ſhall ſay, when they were infants, having done neither good or evill, they were in that ſtate, then let me query, whether all men ſince tranſgreſſion (in the naturall ſtate) were not conceived in ſin and borne in iniquity yea or nay? and whether the Apoſtle and them he ſpoke to had any other birth before re<g ref="char:EOLhyphen"/>generation in Chriſt the way to God againe, the truth, the light, the life, the firſt and the laſt the image of God.</p>
+            <p>
+               <hi>Object.</hi> But how could Adam be in Chri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, before Chriſt came into the world, or was borne of the Virgin, ſeeing Adam was made in the image of God long before, could he be made in Chriſt, or by Chriſt, before Chriſt was, how can theſe things be?</p>
+            <p>
+               <hi>Anſw.</hi> The word Chri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in letters CHRIST, was not known (neither was there any occaſion of them,) before man had tranſgreſſed, and loſt that life in and by which he was created, but the power which was in that man (or body) which ſuffered without the gate of Jeruſalem, was before the body, or creature was made, and it was the power of the moſt high which overſhaddowed the Virgin; and ſaid he, a body haſt thou prepared me (marke) this was the life and power in the b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy which ſpoke, in whom the fullneſſe of the God-head dwelt, and he ſpake and prayed to his father, which was in him: John: <hi>14:11:</hi> ſo though he was not known by them letters, or the name CHRIST, yet he was with the father glorified, before the world began, and was the word in the beginning, John: <hi>1:1:</hi> by whom the world was made, who ſaid, before Abraham was I am, John: <hi>8:58:</hi> but the name or letters CHRIST, was not untill many hundred yeares after, ſo thou may ſee, that the Chri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of God, the word by whom all things was made, was be<g ref="char:EOLhyphen"/>fore it was made, glorified with the father, before Abraham, and Adam, and Moſes, and the names or letters were, the image of God, the bleſſed ſeed: Then why was not man (who was made in the image of God) and bleſſed of God, in that ſeed, or power, or image, ſeeing the ſcripture ſaith, he was made in Gods image, and bleſſed of God, Gen: <hi>1:26:28:</hi> or wheth<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r there be any bleſſing to more ſeeds then one, and whether God did not ſay to Abraham, in thy ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſhall all Nations upon earth be bleſſed, Gen: <hi>22:18:</hi> and they that are Chri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts are Abrahams ſeed, and heires according to promiſe, Gal. <hi>3:29:</hi> in Chriſt, in the ſeed, in the heire, in the image of God, (which was before Abraham was) is the promiſes (and the bleſſing) <hi>2</hi> Cor: <hi>1:20:</hi> yea and amen: and not unto ſeeds, Gal. <hi>3.16.</hi>
+            </p>
+            <p>Again in thoſe dayes before tranſgreſſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n was, there was no need of a ſaviour, or words, or letters, or names, or preachings, or teachings to bring man to God, untill he had departed from him by tranſgreſſion, untill ſin entered into the world, and death by ſin, and darkn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe, ignorance, blindeneſſe, captivity, and bondage was, there was no need to ſay beleeve in the light, and come to the light, and follow and obey it which ſhews
+<pb facs="tcp:45948:3"/> you ſin, untill ſin was, and darkneſſe was, ſin could not be diſcovered, where it was not or before it was, there was no need to ſay know the Lord, and feare the Lord, and de<g ref="char:EOLhyphen"/>part from evill, and to tell of a redeemer, untill ignorance, tranſgreſſion and bondage was, and to ſay obey the Lord, or his word, vntill diſobedience was ſo there was not need <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o mention the name Chriſt at that time, neither was it, though that ſeed was a miſtery hid from ages and generations, (the ſeed of the Woman, which bruiſes the ſerpents head, which was borne of a virgin in due time) and is yet hid to and in ſuch as walk in dark<g ref="char:EOLhyphen"/>neſſe, and from all tranſgreſſors, who love the evill and darkneſs, rather then the light.</p>
+            <p>Now when Moſes and Iſraell was in the wilderneſſe, and when they ſinned in the wil<g ref="char:EOLhyphen"/>derneſſe, there was a rock which followed them, [marke] (ſome thing that's hard to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem that ſinneth) and the Apoſtle ſaid, the rocke which followed them was Chriſt, (conſider this well with a ſingle eye) he that was given for a leader and commander, and goes before his own ſheepe, followeth them that ſinned, (read within) and he is the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight, which lighteth every man, that cometh into the world, which is to lead up to God <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gaine, out of the world, to the beginning, before the tranſgreſſion or hills was.</p>
+            <p>So that this one ſeed (which was a rocke in Moſes dayes to them that ſinned, and cal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed a hard maſter by the ſloathfull) hath in proceſſe of time, many names though one <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower in nature, as he was called the word, a child, a ſon, a ſtone, the elect, the foun<g ref="char:EOLhyphen"/>dation, the doore, the vine, the lambe (of God and) ſlain from the foundation of the world, (and all that is in the world, is the luſt of the fleſh, the luſt of the eye, and the pride of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife, <hi>1</hi> John: <hi>2:16:</hi> and) he is called the lion of the tribe of Judah, the ſaviour, the re<g ref="char:EOLhyphen"/>deemer, the mediatour, the way, the truth, the life, the ſeed, the wonderfull counſellour, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he mighty God, the prince of peace, the immanuell, God with us, the Meſſiah, and Jeſus which is called Chriſt, all theſe names and more, is given to the one ſeed; now muſt people be pooring and imagining, and contending about names, letters, and words, which was given ſince the fall, ſince tranſgreſſion, or be brought to the ſeed, the word, which was in the beginning the ſubſtance, which was before the names, and ends the names, and the letters, and the words, and the imaginations, ſtrivings, and contending about words to no profit, and before tranſgreſſion was, who is the expreſſe image of the inviſible God, who now is come a light into the world, and preacheth himſelfe the light of the world, John: <hi>8:12:</hi> and his witneſſe declares him to be the true light, that lighteth every man, which cometh into the world, full of grace and truth: John: <hi>1:9:14.</hi>
+            </p>
+            <p>Now Reader if the bleſſed eye in thee be open, and thou ſtand ſingle in it, thou wilt ſee ſome<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing in what I have written for the ſimple ſake, and for the truth ſake, and if thou can ſtand ſtill, and but ſee the truth, then wilt thou ſee Robert Hal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: teacher at Colebrooke, and Edmund Board in blindneſſe and error, and with a lye in their right hand, who ſaid man in his firſt <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ate, before tranſgreſſion, (who was the ſon of God, in the image of God, and bleſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of God) <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad not the holy ſpirit, nor was in Chriſt, but bare the earthly image, and that the breath of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fe, which God breathed into man, was a created thing, let the ſober minded with Gods wit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe, (the light in them) judge, whether that which made living be the created thing? or
+<pb facs="tcp:45948:4"/> that which was made living by it? or whether a created thing, can create and make living, or whether that life, in which we live move and have our being, be the created, or the creator, let underſtanding judge: Acts: <hi>17:28:</hi> Deut: <hi>30:20:</hi>
+            </p>
+            <p>Now this was the great error which Robert Hall, charged againſt me, (viz.) that I went to bring people from Chriſt, to that ſtate, which Adam was in before the fall; marke and con<g ref="char:EOLhyphen"/>ſider, and ſee what ſtate Adam was in, before the fall, before tranſgreſſion (that was his fall) and then ſee wherein I have erred, if I had brought all people upon earth into that ſtate, or wherein I brings any from Chriſt as he hath ſaid, Adam before the fall, was without ſin, before the fall was in the image of God, in his ſtate before the fall, had dominion over the world, and was the ſon of God, in the likeneſſe of God, before the fall, was bleſſed of God: Gen: <hi>1:</hi>
+            </p>
+            <p>Now if I had, could, or doe bring people to this ſtate, (to be without ſin, to be in the image of God, to be the ſons of God, to have dominion over the world, to be bleſſed of God) wherein is my error, or what have I erred from herein, or what are they erred from which are brought into this ſtate; let truth judge.</p>
+            <p>Now if any ſhall ſay, we are erred from Chriſt, or from God in Chriſt, or from the ſpirit, or from the doctrine of Chriſt, I anſwer nay? its he that tranſgreſſeth, that abideth not in the doctrine of Chriſt, and ſuch hath not God, <hi>2</hi> John: <hi>1:9:</hi> and the father, ſon, and ſpirit ar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one, and Chriſt is the firſt and the laſt, without ſin, before ſin and tranſgreſſion was, the de<g ref="char:EOLhyphen"/>ſire of all nations, the image and ſon of God, glorified with the father, before the foundation of the world, to him, and into him, is our deſire that people ſhould come, in which ſeed only the bleſſing is, Gen: <hi>22:18:</hi> Gal: <hi>3:16: 1</hi> John: <hi>3:9:</hi> which all in tranſ<g ref="char:EOLhyphen"/>greſſion be erred from.</p>
+            <p>Then it was askt Robert Hall, what he went to bring people unto by his preaching:</p>
+            <p>He anſwered, he went to bring them from that ſtate, (marke that) Now if any people were come into that ſtate, to be without ſin, in the image of God, the ſonnes of God, having domi<g ref="char:EOLhyphen"/>nion over the world, and bleſſed of God, as at the firſt read Iſa: <hi>1:25:26:</hi>) is it no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the worke of the divell, of his miniſters, and meſſengers, and angells, to bring them out o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this ſtate? is not this the ſame worke which the divell, the old ſerpent did, when he brough<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man from that ſtate, in which he was without ſin, and bleſſed of God) at the firſt, when h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tranſgreſſed, and was driven out of paradice, (peace, reſt, joy) into the earth, where he becam<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earthly, unſavoury, unrighteous, and unfruitfull to God? and was it a work of the ſerpent then to bring from that ſtate which God bleſſed, (whoſe bleſſing unchangeably, and promiſes are <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſeed only, and in the ſeed yea and amen: <hi>2</hi> Cor: <hi>1:20:</hi>)</p>
+            <p>And is it not now the work of the divell, the old ſerpent in Robert Hall, and the reſt of h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> minde, to bring people from that ſtate, which of God is bleſſed? let them that fear God judg<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and then ſee whoſe meſſenger and miniſter he is, and whoſe will and work he doth; and if he <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> found doing the ſame work, which the divell did, when he brought man from his bleſſed ſta<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> into tranſgreſſion, then whether the ſon of God, (the light of the world) will not deſtroy h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> work, ſeeing for this purpoſe he was manifeſted, even to deſtroy the works of the dive<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:45948:4"/> 
+               <hi>1</hi> Joh: <hi>3:8:</hi> and whether he will not <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her the wages of ſin be not death, and whether it be not a ſin to bring people into ſin, from <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſtate which God doth bleſſe, yea or nay, and whether there be any other ſtate among men, but the bleſſed and the curſed, if not, then whether he that brings from the bleſſ d ſtate, do not bring under the curſe, and whether he that brings to the ſtate bleſſed, brings not from under the curſe, into peace with God, into the image of God again, into the reſurrection and the life which was before death, the curſe, and the fall, ſo if it be not an error to bring people from all error, into a bleſſed ſtate out of tranſgreſſion, into the image of God, to be the ſons of God, to have victory over the world, through him, who is the ſecond Adam, the light of the world, the quickening ſpirit, the firſt and the laſt, then I am cleared of that, which Robert Hall himſelf is in, and the bleſſing of God is to him, that brings into the bleſſed ſtate, and is in the bleſſed ſtate which was before ſin and tranſgreſſion was, the firſt and the laſt, Cant: <hi>12:3:</hi> Rev: <hi>22:13:14:</hi> Mat: <hi>5:9:</hi>
+            </p>
+            <p>Alſo this Edmund Board ſaid, that he was through grace, in a more glorious ſtate, then A<g ref="char:EOLhyphen"/>dam was in before the fa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, (theſe are to high words for a lyar) and that he was ſate down with Chriſt, in heavenly places, and bad peace with God and was harmleſſe, and innocent, and with<g ref="char:EOLhyphen"/>out ſpot, and that the bloud of Chriſt had cleanſed him from all ſin.</p>
+            <p>Something of this, I may leave to his neighbours, at Colebrook to judge, which knoweth his words, and actions, and converſation, whether he be without ſpot, or cleanſed from (all) ſin yea or nay? if ſo, then he have no ſin, but if he commit ſin, then he is a lyar, and of his father, whoſe works he doth; now if it were ſo, as he hath ſaid he is, cleanſed from all ſin, ſo was man without ſin, before the fall, (for ſin, tranſgreſſion was his fall and error,) and if he were without ſin, and had no ſin, and bleſſed of God before the fall, then how much do Edmund Boards ſtate, exceed this in glory? who ſaith the bloud of Chriſt, hath cleanſed him from all ſin, (marke) to be cleanſed from all ſin, and to have no ſin, what dif<g ref="char:EOLhyphen"/>ference is here, (if no ſin had been committed, there had been no need of being cleanſed from it,) he ſaid he is ſate down with Chriſt in heavenly places; now Chriſt is the image of God. <hi>2</hi> Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <hi>4:4:</hi> and man before the fall, was in the image of God, Gen: <hi>1:26:</hi> he ſaid he was innocent, and without ſpot, and had peace with God, now if it were as he hath ſaid, was not man in his firſt ſtate before the fall innocent, and without ſpot (is not ſin the ſpot) and had he not peace with God before tranſgreſſion, or was he afraid or hid himſelf before tranſgreſſion, or after (read within) or was he bleſſed in peace and domin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on be<g ref="char:EOLhyphen"/>fore or after he had tranſgreſſed? ſearch the ſcriptures, they teſtify of the truth; and are a true declaration: Gen: <hi>1:28:</hi> Luk: <hi>1:1:</hi>
+            </p>
+            <p>So that if any could believe that this profeſſor, were in a more glorious ſtate, then man was in before tranſgreſſion was, yet I would have them believe the truth alſo, and ſearch the ſcriptures, for they teſtify of him, which was before ſin, and tranſgreſſion was, glorified with the father before the world began, who is the alpha and omaga: the firſt and the laſt, he that have ears to heare let him hear and under<g ref="char:EOLhyphen"/>ſtand a right, Rev: <hi>22:13:</hi>
+            </p>
+            <p>Now if this man were cleanſed from all ſin, without ſpot, innocent, ſate down with Chriſt in heavenly places, and had peace with God, (as he hath ſaid) yet in the light ſearch him out further, and ſee if we can find him in a [more] glorious ſtate, then man was in before the fall; before tranſgreſſion was, who was made in the image of God, the ſon of God, and bleſſed of God (then in peace) having dominion o<g ref="char:EOLhyphen"/>ver all before tranſgreſſion and ſin was, (then without ſin the ſpot, and innocent) ſo that if he be not in a [more] glorious ſtate then this, then ſay I, he is a lyar, for he hath ſaid, he was in a more glorious ſtate th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Adam was in before the fall, (as many other can witneſſe) and if he be a lyar then of him which <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed
+<pb facs="tcp:45948:5"/> from <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whoſe work <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> people <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tate, in which God bleſſed man, before tranſgreſſion was; then he is no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> innocent, nor cleanſed from (all) ſin, for lying is ſin, and the ſpot, ſo not without ſpot, not in peace, n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bleſſed of God, then not in ſo glorious a ſtate, as Adam was in, before lying and tranſgreſſion was; bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhut out, without are dogs and all lyars, Rev: <hi>22:13:14:15:</hi>
+            </p>
+            <p>Now conſider all them that are in tranſgreſſion are in the fall, in the adulterated ſeed, to which th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> curſe is, and not the bleſſing driven from God, into the earth, vagabonds caſt out, looſing the bleſſing, a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that are in lying, ſwearing, pride, covetouſneſſe, wantonn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe, drunkenneſſe, envy, wrath, frowardneſſe, corrupt communication, luſt, whoredome, idolatry, deceit, wildneſſe, prophaneneſſe, mocking, theſe are i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the fall, loſt, caſt out, driven, baniſhed from God by tranſgreſſion, in the ſeed of evill doers, which ſhall never be renowned, but judged, cond<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mned, plagued, and tormented day and night for ever and ever, if they be not converted, and changed into another ſeed and ſtock, Cain the envious, the vagabond, driven from God, Iſhmaell, the wild man, the mocker caſt out, Eſau the prophane perſon, the cunning hunter loſt the bleſſing, hear this all profeſſors, who are of that ſtock and ſeed, whoſe deeds are evill hate<g ref="char:EOLhyphen"/>ing) the light, with which you be lighted, (and all you ungodly ones every where) which lets you ſee all your ungodly deeds, and hard ſpeeches, and your perverſe and crooked wayes you have walked in, its your condemnation in that ſtate, even the light: John: <hi>3:19:</hi> which would lead you out of tranſgreſſion, up to God again, (did you love it) out of the world, to the beginning, before the world and tranſgreſſion was, to Chriſt Ieſus, by whom the world was made, the word, which was before the words, and letters, and before the many things, and names, and languages, and before the ſects, and opinions, heapes and i<g ref="char:EOLhyphen"/>maginations were, the light leads out of all theſe, up to him from whence it comes, who hath a name a<g ref="char:EOLhyphen"/>bove, (and before) every name under heaven, the ſaviour of the ſoule immortall, glorified with the fa<g ref="char:EOLhyphen"/>ther the prince of peace, who brings out of tranſgreſſion and ſin, out of darkneſſe, the curſe and fall again, all them that follow him in the regeneration, and I ſay again, except a man be born again, he cannot in<g ref="char:EOLhyphen"/>herit the kingdome of God, (which is righteouſneſſe, peace, and joy in the holy ſpirit) ſo to whom this may ſeeme error, (as it hath to ſome) my advice to ſuch is; come to the light, (which is true) in thy conſcience, (and be not haſty to ſpeake evill of things thou know not, as many as hath done, but firſt caſt out the beame) and let it ſearch thy heart, and try thy reines, and wayes, and words, and in it ſee, if thou be not yet in the fall, tranſgreſſion and error, for all that be from the l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght, are erred from the right way, Chriſt the light, the way, the truth, and the life, who is the firſt and the laſt, the image of God; and ſo are in darkneſs, not able to diſcern things that differ; becauſe darkneſs hath blinded the eye <hi>1</hi> Ioh: <hi>2:11:</hi>
+            </p>
+            <p>Theſe things are not publiſhed in envy to any man upon earth, but in true love to the ſeed and truth of God, and for the ſake of the ſimple, (who are toſſed up and down with every winde of doctrine) that they may come to the word, which was in the begining, which the true light comes from, and in it be eſtabliſhed.</p>
+            <byline>By William Bayly</byline>
+            <closer>
+               <dateline>Kingſton upon Thames
+<date>the 24<hi rend="sup">th</hi>: of the 4<hi rend="sup">th</hi>: moneth 59:</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London;</hi> Printed the 6<hi rend="sup">th</hi> moneth for <hi>Mary Weſtwood,</hi> 1659.</p>
+            <pb facs="tcp:45948:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
